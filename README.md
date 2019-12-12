@@ -1,2 +1,2 @@
-#my app
-this is my app
+
+This is my first code with javascript
